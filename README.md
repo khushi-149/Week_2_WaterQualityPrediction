@@ -39,4 +39,4 @@ Performance was satisfactory across all target variables, indicating a reliable 
 
 ## Model Link
 
-[Download pollution_model.pkl](https://drive.google.com/file/d/11hFcW3pJkcHRi4OgUC8_1LCMTTMm5eik/view?usp=sharing)
+https://drive.google.com/file/d/11hFcW3pJkcHRi4OgUC8_1LCMTTMm5eik/view?usp=sharing
